@@ -33,7 +33,7 @@ WARNING!!! WARNING!!!
 // See Lecture 52, part 2
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 
-var names = ["Ritesh", "Jasmine", "Jen", "Jessica", "romit", "deepak", "Larry", "Paula", "Laura", "Jim"];
+var names = ["Yaakaov", "Jasmine", "Jen", "Jessica", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 // STEP 10:
 // Loop over the names array and say either 'Hello' or "Good Bye"
